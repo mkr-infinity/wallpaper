@@ -30,7 +30,7 @@ Below you will find a curated selection of high-quality image and animated video
 
 ## anime-girl-tech-room
 
-<img src="./image-wallpapers/anime-girl-tech-room.webp" width="400">
+<img src="./image-wallpapers/anime-girl-tech-room.webp" width="400" >
 
 </td>
 
@@ -38,7 +38,7 @@ Below you will find a curated selection of high-quality image and animated video
 
 ## anime-girl-with-gun-and-cat
 
-<img src="./image-wallpapers/anime-girl-with-gun-and-cat.webp" width="400">
+<img src="./image-wallpapers/anime-girl-with-gun-and-cat.webp" width="400" >
 
 </td>
 
@@ -266,5 +266,22 @@ Below you will find a curated selection of high-quality image and animated video
 
 </table>
 
+
+## 🌸 You've Reached The End 🌸
+
 </details>
+
+---
+
+<div align="center">
+
+## 🌸 You've Reached The End 🌸
+
+*"Every wallpaper tells a different story..."* ✨
+
+Thank you for exploring this collection 💜  
+More wallpapers will be added over time 🚀
+
+</div>
+
 
