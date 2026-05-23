@@ -11,7 +11,11 @@ Below you will find a curated selection of high-quality image and animated video
 > ⚠️ GitHub README does not reliably support inline video previews.  
 > To watch wallpapers, open any video below from the [`video-wallpapers/`](https://github.com/mkr-infinity/wallpaper/tree/main/video-wallpapers) folder.
 
+</details>
+
 ---
+
+
 
 <details>
 <summary><h2>🖼️ Image Wallpapers (Click to Expand)</h2></summary>
