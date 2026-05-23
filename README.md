@@ -5,111 +5,11 @@ Welcome to my personal collection of stunning wallpapers, perfectly suited for d
 Below you will find a curated selection of high-quality image and animated video wallpapers.
 
 ---
-
 <details>
 <summary><h2>🎬 Video Wallpapers (Click to Expand)</h2></summary>
 
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-## fortnite-japanese-biome
-
-<a href="./video-wallpapers/fortnite-japanese-biome.mp4">
-  <img src="./thumbnails/fortnite-japanese-biome.jpg" width="400">
-</a>
-
-</td>
-
-<td align="center">
-
-## mountain-landscape
-
-<a href="./video-wallpapers/mountain-landscape.mp4">
-  <img src="./thumbnails/mountain-landscape.jpg" width="400">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-## roses-in-rain
-
-<a href="./video-wallpapers/roses-in-rain.mp4">
-  <img src="./thumbnails/roses-in-rain.jpg" width="400">
-</a>
-
-</td>
-
-<td align="center">
-
-## sakura-tree-landscape
-
-<a href="./video-wallpapers/sakura-tree-landscape.mp4">
-  <img src="./thumbnails/sakura-tree-landscape.jpg" width="400">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-## samurai-near-the-tree
-
-<a href="./video-wallpapers/samurai-near-the-tree.mp4">
-  <img src="./thumbnails/samurai-near-the-tree.jpg" width="400">
-</a>
-
-</td>
-
-<td align="center">
-
-## samurai-sekiro-near-trees
-
-<a href="./video-wallpapers/samurai-sekiro-near-trees.mp4">
-  <img src="./thumbnails/samurai-sekiro-near-trees.jpg" width="400">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-## samurai-spirit-under-the-moon
-
-<a href="./video-wallpapers/samurai-spirit-under-the-moon.mp4">
-  <img src="./thumbnails/samurai-spirit-under-the-moon.jpg" width="400">
-</a>
-
-</td>
-
-<td align="center">
-
-## treehouse-in-summer
-
-<a href="./video-wallpapers/treehouse-in-summer.mp4">
-  <img src="./thumbnails/treehouse-in-summer.jpg" width="400">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</details>
+> ⚠️ GitHub README does not reliably support inline video previews.  
+> To watch wallpapers, open any video below from the [`video-wallpapers/`](https://github.com/mkr-infinity/wallpaper/tree/main/video-wallpapers) folder.
 
 ---
 
@@ -364,13 +264,3 @@ Below you will find a curated selection of high-quality image and animated video
 
 </details>
 
----
-
-# 📂 Repository Structure
-
-```bash
-.
-├── image-wallpapers/
-├── video-wallpapers/
-├── thumbnails/
-└── README.md
