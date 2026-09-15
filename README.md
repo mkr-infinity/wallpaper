@@ -6,6 +6,12 @@ Below you will find a curated selection of high-quality image and animated video
 
 > 🗜️ **Note:** I have compressed the wallpaper images to make the repository lightweight, but with visually lossless compression so no one will feel any difference in quality!
 
+### 📥 How to Download
+
+1. 🖱️ **Click on any wallpaper** you want to download from the gallery below.
+2. ↗️ A page will open displaying the wallpaper file (e.g., [`aesthetic_purple_room.jpg`](https://github.com/mkr-infinity/wallpaper/blob/main/image-wallpapers/aesthetic_purple_room.jpg)).
+3. ⬇️ Click the **"Download raw file"** button (or the download icon in the top-right corner) to save the full-resolution wallpaper directly to your computer!
+
 ---
 <details>
 <summary><h2>🎬 Video Wallpapers (Click to Expand)</h2></summary>
